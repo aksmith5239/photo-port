@@ -32,7 +32,7 @@ function About() {
                 <ul className="flex-row">
                     <li className = "mx-2">
                         <a href="#about">
-                            About Me
+                            About Me!
                         </a>
                     </li>
                     <li>
